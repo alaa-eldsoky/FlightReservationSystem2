@@ -1,0 +1,5 @@
+alaa@skyway.com,Cairo to Dubai (08:30 PM),2026-05-03,Economy
+alaa@skyway.com,Cairo to Dubai (08:30 PM),2026-05-03,Economy
+amira@skyway.com,Cairo to Dubai (08:30 PM),2026-05-03,Economy
+amira@skyway.com,Cairo to London(05:30 AM),2026-05-03,First
+alaa@skyway.com,Cairo to Dubai (10:00 AM),2026-05-03,Business
